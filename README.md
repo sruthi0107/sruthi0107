@@ -3,7 +3,7 @@
 I'm currently a master's student in the Applied Computing program at the University of Toronto. I enjoy delving into and reading the latest research in various fields of AI!
 I am passionate about various subdomains in computer vision and have recently been exploring it's intersection with NLP. I am particularly interested in 3D Vision, Generative AI, Representation learning and Multimodal models.
 
-If you'd like to collaborate or chat about any of these topics, reach me at any of my socials or drop me an email at sruthi0107@gmail.com
+If you'd like to collaborate or chat about anything AI related, reach me at any of my socials or drop me an email at sruthi0107@gmail.com!!
 
 <!--
 **sruthi0107/sruthi0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
