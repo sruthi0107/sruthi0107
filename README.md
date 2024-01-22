@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm currently a master's student in the Applied Computing program at the University of Toronto. I enjoy delving into and reading the latest research in various fields of AI!
-I am passionate about various subdomains in computer vision and have recently been exploring it's intersection with NLP. I am particularly interested in 3D Vision, Generative AI, Representation learning and Multimodal models.
+I am passionate about various subdomains in computer vision and have recently been exploring it's intersection with NLP. I am primarily interested in 3D Vision, Generative AI, Representation learning and Multimodal models.
 
 If you share these interests or have ideas to discuss, feel free to reach out! I'm always open to collaborations and AI-related conversations. You can connect with me on [LinkedIn](https://www.linkedin.com/in/sruthi-srinivasan/) or [Twitter](https://twitter.com/sruthi0107), or drop me an email at sruthi0107@gmail.com.
 
